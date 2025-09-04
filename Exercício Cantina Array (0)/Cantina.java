@@ -13,6 +13,9 @@ public class Cantina {
 
     void mostraInfo(){
         for(int i = 0; i<salgados.length; i++)
-        System.out.println(salgados[i].nome);
+            if(salgados != null){
+             System.out.println(salgados[i].nome);
+            }
     }
 }
+
