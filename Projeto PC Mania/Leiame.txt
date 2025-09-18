@@ -2,4 +2,4 @@ provavelmente vou ir mundando o PC Mania até quinta pq tem uns coiso q eu acho 
 
 também não consegui fazer a composição do hardwarebasico e do sistemaoperacional no computador, fiquei com muita dúvida nisso
 
-minha teoria seria: cria a função q muda o hardware e o sistema na classe computador, menciona ela na main e pede pra retornar os valores, com esse valor passa pro cliente e com o total do cliente passa pro processar pedido, mas eu não sei implementar isso no meu código pela minha incompetência
+minha teoria seria: cria a função q muda o hardware e o sistema na classe computador, menciona ela na main e pede pra retornar os valores, com esse valor passa pro cliente e com o total do cliente passa pro processar pedido, mas eu não sei implementar isso no meu código pq sou incompetente ;D
