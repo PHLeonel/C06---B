@@ -2,4 +2,4 @@ provavelmente vou ir mundando o PC Mania até quinta pq tem uns coiso q eu acho 
 
 também não consegui fazer a composição do hardwarebasico e do sistemaoperacional no computador, fiquei com muita dúvida nisso
 
-minha teoria seria: cria a função q muda o hardware e o sistema na classe computador, menciona ela na main e pede pra retornar os valores, com esse valor passa pro cliente e com o total do cliente passa pro processar pedido, mas eu não sei implementar isso no meu código pq sou incompetente ;D
+minha teoria seria: cria uma função no computador q pega as promoções na main, com as info do hardware e do sistema (com a matricula pra calcular o preço), que passa esses valores pra dentro da classe computador, que compõe o hardware o sistema, aí pega o preço de cada computador na main, soma, e manda pro cliente, com o total do cliente passa pro processar pedido, mas eu não sei implementar isso no meu código pq sou incompetente ;D
