@@ -2,8 +2,8 @@ package SisteminhaDaLoja;
 public class Computador {
     private String marca;
     private float preco;
-    private SistemaOperacional sistema;
-    private HardwareBasico hardwares[]; //"*" tava no coiso do exercício
+    private SistemaOperacional sistema; //(era pra ser uma composição mas é uma agregação pq sou muito trouxa)
+    private HardwareBasico hardwares[]; //"*" tava no coiso do exercício (era pra ser uma composição mas é uma agregação pq sou muito trouxa)
     private MemoriaUSB memoriaUSB; //pode ou não ter memoria USB
 
     public Computador(String marca, float preco){ //construtor
@@ -54,3 +54,4 @@ public class Computador {
     }
 }
    
+
