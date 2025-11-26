@@ -51,7 +51,7 @@ public class Main {
             promocao = entrada.nextInt();
 
             if (promocao == 1){
-                computadores[in++] = criarPromocao1(matricula);
+                computadores[in++] = criarPromocao1(matricula); //comprando
             }   else if (promocao == 2){
                 computadores[in++] = criarPromocao2(matricula);
             }   else if (promocao == 3){
