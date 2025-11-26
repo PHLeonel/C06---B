@@ -1,0 +1,61 @@
+[2025-11-25T16:18:49.609229200] Ar-Condicionado (1) - Sala está ligado
+[2025-11-25T16:18:49.615231900] Lâmpada (4) - Banheiro está ligado
+[2025-11-25T16:18:49.616230900] Lâmpada (1) - Sala está ligado
+[2025-11-25T16:18:49.616230900] Lâmpada (2) - Cozinha está ligado
+[2025-11-25T16:18:49.616230900] Ar-Condicionado (3) - Quarto está ligado
+[2025-11-25T16:18:49.617230600] Lâmpada (5) - Escritório está ligado
+[2025-11-25T16:18:49.617230600] Ar-Condicionado (2) - Cozinha está ligado
+[2025-11-25T16:18:49.618230900] Ar-Condicionado (4) - Banheiro está ligado
+[2025-11-25T16:18:49.618230900] Ar-Condicionado (5) - Escritório está ligado
+[2025-11-25T16:18:49.618230900] Lâmpada (3) - Quarto está ligado
+[2025-11-25T16:18:49.621744800] Ar-Condicionado (5) - Escritório: resfriando o ambiente... (1)
+[2025-11-25T16:18:49.621744800] Ar-Condicionado (3) - Quarto: resfriando o ambiente... (1)
+[2025-11-25T16:18:49.622746900] Lâmpada (1) - Sala: iluminando o ambiente... (1)
+[2025-11-25T16:18:49.622746900] Ar-Condicionado (1) - Sala: resfriando o ambiente... (1)
+[2025-11-25T16:18:49.622746900] Lâmpada (5) - Escritório: iluminando o ambiente... (1)
+[2025-11-25T16:18:49.623748100] Lâmpada (3) - Quarto: iluminando o ambiente... (1)
+[2025-11-25T16:18:49.623748100] Lâmpada (4) - Banheiro: iluminando o ambiente... (1)
+[2025-11-25T16:18:49.623748100] Ar-Condicionado (2) - Cozinha: resfriando o ambiente... (1)
+[2025-11-25T16:18:49.624761700] Lâmpada (2) - Cozinha: iluminando o ambiente... (1)
+[2025-11-25T16:18:49.624761700] Ar-Condicionado (4) - Banheiro: resfriando o ambiente... (1)
+[2025-11-25T16:18:50.631577100] Lâmpada (5) - Escritório: iluminando o ambiente... (2)
+[2025-11-25T16:18:50.632580300] Lâmpada (2) - Cozinha: iluminando o ambiente... (2)
+[2025-11-25T16:18:50.632580300] Lâmpada (1) - Sala: iluminando o ambiente... (2)
+[2025-11-25T16:18:50.632580300] Lâmpada (4) - Banheiro: iluminando o ambiente... (2)
+[2025-11-25T16:18:50.633621900] Lâmpada (3) - Quarto: iluminando o ambiente... (2)
+[2025-11-25T16:18:50.822859600] Ar-Condicionado (5) - Escritório: resfriando o ambiente... (2)
+[2025-11-25T16:18:50.825850200] Ar-Condicionado (3) - Quarto: resfriando o ambiente... (2)
+[2025-11-25T16:18:50.837774900] Ar-Condicionado (2) - Cozinha: resfriando o ambiente... (2)
+[2025-11-25T16:18:50.837774900] Ar-Condicionado (4) - Banheiro: resfriando o ambiente... (2)
+[2025-11-25T16:18:50.837774900] Ar-Condicionado (1) - Sala: resfriando o ambiente... (2)
+[2025-11-25T16:18:51.634204] Lâmpada (5) - Escritório: iluminando o ambiente... (3)
+[2025-11-25T16:18:51.645199200] Lâmpada (4) - Banheiro: iluminando o ambiente... (3)
+[2025-11-25T16:18:51.646196600] Lâmpada (2) - Cozinha: iluminando o ambiente... (3)
+[2025-11-25T16:18:51.646196600] Lâmpada (1) - Sala: iluminando o ambiente... (3)
+[2025-11-25T16:18:51.646196600] Lâmpada (3) - Quarto: iluminando o ambiente... (3)
+[2025-11-25T16:18:52.024826700] Ar-Condicionado (5) - Escritório: resfriando o ambiente... (3)
+[2025-11-25T16:18:52.033835400] Ar-Condicionado (3) - Quarto: resfriando o ambiente... (3)
+[2025-11-25T16:18:52.040823500] Ar-Condicionado (4) - Banheiro: resfriando o ambiente... (3)
+[2025-11-25T16:18:52.041826800] Ar-Condicionado (2) - Cozinha: resfriando o ambiente... (3)
+[2025-11-25T16:18:52.049818700] Ar-Condicionado (1) - Sala: resfriando o ambiente... (3)
+[2025-11-25T16:18:52.637122900] Lâmpada (5) - Escritório: iluminando o ambiente... (4)
+[2025-11-25T16:18:52.647126800] Lâmpada (4) - Banheiro: iluminando o ambiente... (4)
+[2025-11-25T16:18:52.650133800] Lâmpada (2) - Cozinha: iluminando o ambiente... (4)
+[2025-11-25T16:18:52.651131400] Lâmpada (1) - Sala: iluminando o ambiente... (4)
+[2025-11-25T16:18:52.655120200] Lâmpada (3) - Quarto: iluminando o ambiente... (4)
+[2025-11-25T16:18:53.241523900] Ar-Condicionado (5) - Escritório: resfriando o ambiente... (4)
+[2025-11-25T16:18:53.242531400] Ar-Condicionado (3) - Quarto: resfriando o ambiente... (4)
+[2025-11-25T16:18:53.243531600] Ar-Condicionado (4) - Banheiro: resfriando o ambiente... (4)
+[2025-11-25T16:18:53.260533] Ar-Condicionado (2) - Cozinha: resfriando o ambiente... (4)
+[2025-11-25T16:18:53.262532100] Ar-Condicionado (1) - Sala: resfriando o ambiente... (4)
+[2025-11-25T16:18:53.650713600] Lâmpada (5) - Escritório: iluminando o ambiente... (5)
+[2025-11-25T16:18:53.650713600] Lâmpada (4) - Banheiro: iluminando o ambiente... (5)
+[2025-11-25T16:18:53.671721700] Lâmpada (2) - Cozinha: iluminando o ambiente... (5)
+[2025-11-25T16:18:53.674723100] Lâmpada (3) - Quarto: iluminando o ambiente... (5)
+[2025-11-25T16:18:53.676721] Lâmpada (1) - Sala: iluminando o ambiente... (5)
+[2025-11-25T16:18:54.447905900] Ar-Condicionado (3) - Quarto: resfriando o ambiente... (5)
+[2025-11-25T16:18:54.448892200] Ar-Condicionado (4) - Banheiro: resfriando o ambiente... (5)
+[2025-11-25T16:18:54.449904700] Ar-Condicionado (5) - Escritório: resfriando o ambiente... (5)
+[2025-11-25T16:18:54.466893500] Ar-Condicionado (2) - Cozinha: resfriando o ambiente... (5)
+[2025-11-25T16:18:54.466893500] Ar-Condicionado (1) - Sala: resfriando o ambiente... (5)
+[2025-11-25T16:18:55.678721700] Todos os dispositivos finalizaram suas tarefas.
